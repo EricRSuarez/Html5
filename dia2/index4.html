@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>AlertaMaligna</title>
+</head>
+<body>
+
+	<!-- Resto de contenido de la página -->
+	<div id="modal-card">
+	 <h4>¡Ey, amigo!</h4>
+	 <p>¿Estás seguro de que vas a irte? Déjame tu e-mail, y te envío un ebook gratis:</p>
+
+	 <form action="/send/" method="post">
+		 <input type="text" name="email" required placeholder="tuemail@gmail.com">
+		 <input type="submit" value="▶">
+	 </form>
+
+	 <a href="#" onClick="document.getElementById('modal-card').remove()">Sí, tío. Bye.</a>
+	 <!-- Fondo gris -->
+	 <div class="modal-background"></div>
+	</div>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.11/ouibounce.min.js"></script>
+</body>
+</html>
+
+
