@@ -1,0 +1,13 @@
+body{
+  margin: 100px 500px;
+}
+
+/* Decoración */
+.accordion [data-control]::before {
+ content: '⊞ ';
+ color: #888;
+}
+.accordion.open [data-control]::before {
+ content: '⊟ ';
+ color: #444;
+}
