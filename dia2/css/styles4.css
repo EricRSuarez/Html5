@@ -1,3 +1,10 @@
+
+body{
+	margin: 200px auto;
+}
+
+
+
 /* Ventana modal */
 #modal-card {
  border: 1px solid #888;
