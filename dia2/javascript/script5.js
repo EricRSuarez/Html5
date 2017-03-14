@@ -9,3 +9,23 @@ function mensaje() {
  animation: false,
  });
 }
+
+
+function cosa(){
+
+	 swal({
+	 title: 'Título',
+	 text: 'Mensaje de texto',
+	 type: 'success',
+	 showCloseButton: true,
+	 confirmButtonText: '<i class="fa fa-thumbs-up"></i> ¡Bien!',
+	 confirmButtonColor: '#1db75a',
+	 showCancelButton: true,
+	 cancelButtonText: '<i class="fa fa-thumbs-down"></i> :(',
+	 }).then(
+	 function() { swal('¡Aceptado!') },
+	 function() { swal('¡Cancelado!') }
+	 );
+	
+
+}
