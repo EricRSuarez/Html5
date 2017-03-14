@@ -1,0 +1,10 @@
+/* Formato del slider */
+.ba-slider {
+ width: 640px;
+ margin: auto;
+ border: 5px solid #000;
+}
+
+img{
+  height:400px;
+}
