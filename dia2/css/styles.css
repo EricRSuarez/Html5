@@ -4,7 +4,7 @@ body{
 /* Formato del slider */
 .slider {
  max-width: 650px; /* Tamaño (máximo) deancho de las imágenes */
- margin: auto;
+ margin: 200px auto;
 }
 
 img{
