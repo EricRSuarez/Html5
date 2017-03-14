@@ -1,0 +1,13 @@
+body{
+  background-color: steelblue;
+}
+/* Formato del slider */
+.slider {
+ max-width: 650px; /* Tamaño (máximo) deancho de las imágenes */
+ margin: auto;
+}
+
+img{
+  margin-left:20px;
+  height: 300px
+}
