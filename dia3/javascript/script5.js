@@ -1,5 +1,7 @@
+
+
 $('.editor').trumbowyg({
- svgPath: 'images/icons.svg',
+ svgPath: 'i/icons.svg',
  lang: 'es', // Idioma (es.min.js incluido)
  btns: [
  ['bold', 'italic', 'underline', 'strikethrough'],
