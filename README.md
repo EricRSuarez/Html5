@@ -27,12 +27,12 @@
 | Lunes        | Martes           | Miércoles  | Jueves          |
 | -------------|:-------------:   | -----:     | --------:       |
 | animate.css  | Slick            |            |                 |
-| font awesome | centered         |            |                 |
-| cssgram      | Accordion        |            |                 |
-| magicAnimation | OuiBounce      |            |                 |
-|              | SweetAlert2      |            |                 |
-|              | Humane.js        |            |                 |
-|              | Toastr           |            |                 |
+| font awesome | Accordion        |            |                 |
+| cssgram      | OuiBounce        |            |                 |
+| magicAnimation | SweetAlert2    |            |                 |
+|              |  Humane.js       |            |                 |
+|              |  Toastr          |            |                 |
+
 
 
 
