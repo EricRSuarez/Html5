@@ -2,19 +2,21 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Cookies</title>
+	<title>Autocompletar</title>
 	
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.cookieBar/0.0.1/cookieBar.min.css">
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-	<!-- Opción 2: Personalizar mensaje -->
-	<div class="cookie-message">
-	 <p>Esta web utiliza cookies. Si sigue navegando, se entiende que acepta las
-	condiciones de uso.
-	 <!-- Botón de cerrar -->
-	 <a class="close" href="#">Cerrar</a></p>
-	</div>
+	<!-- Modo HTML5 (sin librería) -->
+	<input list="lenguajes">
+	<datalist id="lenguajes">
+	<option>Ada</option>
+	<option>Java</option>
+	<option>JavaScript</option>
+	<option>Brainfuck</option>
+	<option>LOLCODE</option>
+	</datalist>
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.cookieBar/0.0.1/jquery.cookieBar.min.js"></script>
