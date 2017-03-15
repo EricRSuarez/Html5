@@ -1,3 +1,13 @@
 body{
 	margin: 300px auto;
 }
+
+.selectize-control {
+ font-family: 'Open Sans';
+}
+.selectize-input .item {
+ background: linear-gradient(steelblue, blue)!important;
+ border: 1px solid steelblue!important;
+ color: white!important;
+ border-radius: 5px;
+}
