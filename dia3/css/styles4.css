@@ -1,0 +1,37 @@
+
+body{
+  margin: 200px 500px;
+}
+
+table {
+  border:1px solid #444;
+}
+
+table th, table td {
+  padding:4px 12px;
+  font-family:'Exo 2';
+  font-size:24px;
+}
+
+table th:hover {
+  background:#222;
+  cursor:pointer;
+}
+
+table th.sort-up::after {
+  content:"⏷";
+}
+
+table th.sort-down::after {
+  content:"⏶";
+}
+
+
+table th {
+  background:#444;
+  color:#FFF;
+}
+
+table td {
+  color:#333;
+}
