@@ -14,7 +14,7 @@
 
 - [x] Lunes
 - [x] Martes
-- [ ] Miércoles
+- [x] Miércoles
 - [ ] Jueves
 - [ ] Viernes
 
