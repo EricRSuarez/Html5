@@ -1,0 +1,10 @@
+/* CSS */
+.chart {
+ width: 600px;
+ height: 400px;
+}
+/* CSS */
+.chart .ct-series-c line,
+.chart .ct-series-c path {
+ stroke: #0F0;
+}

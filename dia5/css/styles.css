@@ -1,0 +1,6 @@
+/* Damos tamaño al contenedor */
+#photosphere {
+ width: 600px;
+ height: 400px;
+ background: #DDD;
+}
