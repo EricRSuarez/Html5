@@ -15,23 +15,9 @@
 - [x] Lunes
 - [x] Martes
 - [x] Miércoles
-- [ ] Jueves
-- [ ] Viernes
+- [x] Jueves
+- [x] Viernes
 
-
-
-
-## Contenido
-
-
-| Lunes        | Martes           | Miércoles  | Jueves          |
-| -------------|:-------------:   | -----:     | --------:       |
-| animate.css  | Slick            |            |                 |
-| font awesome | Accordion        |            |                 |
-| cssgram      | OuiBounce        |            |                 |
-| magicAnimation | SweetAlert2    |            |                 |
-|              |  Humane.js       |            |                 |
-|              |  Toastr          |            |                 |
 
 
 
