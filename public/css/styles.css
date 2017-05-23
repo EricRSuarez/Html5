@@ -1,0 +1,58 @@
+body {
+  background-color: #e6bdad;
+  font-family: 'Barrio', cursive;
+}
+
+ul.principal li {
+  list-style: none;
+  padding: 20px;
+  text-align: center;
+  font-size: 40px;
+  margin: 30px auto;
+  width: 35vw;
+  border-radius: 8px;
+  box-shadow: 0px 4px 0px 2px #352b2b;
+  transition: transform 1s;
+}
+ul.principal li:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+ul.secundario li {
+  font-size: 25px;
+  width: 25vw;
+  border-radius: 8px;
+}
+
+.blue {
+  background-color: #5f5fb1;
+}
+
+.verde {
+  background-color: #6fcc69;
+}
+
+.rosa {
+  background-color: #d27272;
+}
+
+.rojo {
+  background-color: #ef4f4f;
+}
+
+.mostaza {
+  background-color: rgba(230, 172, 8, 0.81);
+}
+
+.hidden {
+  display: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:visited {
+  color: inherit;
+}
