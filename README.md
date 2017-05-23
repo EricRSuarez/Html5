@@ -28,11 +28,14 @@
 - [x] Jueves
 - [x] Viernes
 
-
-![Picture](Captura.PNG)
-
 ***
 ***
                                                   Eric Ramos Suárez
 ***
 ***
+
+
+
+
+![Picture](Captura.PNG)
+
