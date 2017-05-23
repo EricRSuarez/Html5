@@ -1,9 +1,7 @@
-
-
-# :cookie: Html5Advanced [![Codepen Licence](https://img.shields.io/badge/codepen.io-up-green.svg)](https://codepen.io/alu0100786330/pen/BRvEgj)
+# :cookie: Html5Advanced 
 > Modules integration in HTML5
 
-## Menu of files
+## Menu of files [![Codepen Licence](https://img.shields.io/badge/codepen.io-up-green.svg)](https://codepen.io/alu0100786330/pen/BRvEgj)
 
 ![Picture](screenshot.png)
 
