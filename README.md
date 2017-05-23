@@ -1,5 +1,5 @@
 # :cookie: Html5Advanced      
-> Integración de módulos en HTML5
+> Modules integration in HTML5
 
 ## Menu of files
 
