@@ -28,10 +28,10 @@
 - [x] Jueves
 - [x] Viernes
 
-***
-***
-                                                  Eric Ramos Suárez
-***
-***
 
+
+## Licence
+
+
+MIT © [Eric. R. Suárez](https://ericrsuarez.github.io/)
 
