@@ -5,7 +5,7 @@
 
 ![Picture](screenshot.png)
 
-[Enter and see the enjoy the menu page!!](https://ericrsuarez.github.io/Html5/)
+[Enter and see the enjoy the menu page!!](https://ericsuarez.github.io/Html5/)
 
 
 
@@ -33,5 +33,5 @@
 ## Licence
 
 
-MIT © [Eric. R. Suárez](https://ericrsuarez.github.io/)
+MIT © [Eric. R. Suárez](https://ericsuarez.github.io/)
 
